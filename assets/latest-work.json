@@ -2,6 +2,12 @@
   "items": [
     {
       "kind": "Writing",
+      "date": "2026-11-25",
+      "title": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
+      "url": "https://www.nature.com/articles/d41586-026-03835-0"
+    },
+    {
+      "kind": "Writing",
       "date": "2026-11-19",
       "title": "Anthropic IPO: four ways the AI giant wants to disrupt science",
       "url": "https://www.nature.com/articles/d41586-026-03788-4"
@@ -296,12 +302,6 @@
       "date": "2019-11-13",
       "title": "Researchers create 3D display you can see, hear and feel",
       "url": "https://www.nature.com/articles/d41586-019-03508-1"
-    },
-    {
-      "kind": "Podcast",
-      "date": "2017-10-06",
-      "title": "Podcast: Our 500th episode spectacular",
-      "url": "https://www.nature.com/articles/d41586-019-03422-6"
     }
   ]
 }
